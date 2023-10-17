@@ -17,7 +17,7 @@
 
 ### Contact me! ⤵
 
-<a href="mailto:ivolopesneto@gmail.com" target="_blank" alt="Gmail">
+<a href="mailto:ivolopesneto@gmail.com" target="_blank" rel="noopener noreferrer" alt="Gmail">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <a href="https://www.linkedin.com/in/ivo-lopes-sn/" alt="LinkedIn">

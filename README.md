@@ -7,11 +7,9 @@
 ## 🚀 Skills
 
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-<a><img src="[https://img.shields.io/badge/Linux-121011?style=for-the-badge&logo=linux&logoColor=white](https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33)" alt="Proxmox"/></a>
+<a><img src="https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33" alt="Proxmox"/></a>
 <a><img src="https://img.shields.io/badge/Linux-121011?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/></a>
 <a><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/></a>
-
-
 
 ---
 

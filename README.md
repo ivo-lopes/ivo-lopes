@@ -9,9 +9,6 @@
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
 <a><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/></a>
 <a><img src="https://img.shields.io/badge/Linux-121011?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/></a>
-<a><img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white" alt="Linux"/></a>
-<a><img src="" alt="Linux"/></a>
-
 
 ---
 

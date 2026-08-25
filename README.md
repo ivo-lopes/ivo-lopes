@@ -1,7 +1,5 @@
 ## Hello there! I'm Ivo. 👋
 
----
-
 <a><img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/></a>
 <a><img src="https://img.shields.io/badge/Linux-121011?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/></a>
 <a><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/></a>

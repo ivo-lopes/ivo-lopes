@@ -1,7 +1,5 @@
 ## Hello there! I'm Ivo. 👋
 
-> I'm a Computer Engineering student at the University of Pernambuco (UPE) and I'm a developer in progress. I currently study Web Development and have plans to delve deeper into the area of ​​cybersecurity.
-
 ---
 
 <a><img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/></a>

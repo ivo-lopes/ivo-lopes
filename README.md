@@ -1,23 +1,25 @@
-### Hello there! I'm Ivo. 👋
+# Ivo Lopes
 
----
+**Platform Engineer · DevOps · Backend Developer**
 
-<a><img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/></a>
-<a><img src="https://img.shields.io/badge/Linux-121011?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/></a>
-<a><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"/></a>
-<a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-<a><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
-<a><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+I build and operate software — from Python APIs and integrations to Linux infrastructure, CI/CD pipelines, and production systems. I care about practical engineering, automation, security, and code that is easy to maintain.
 
----
+Based in **Recife, Brazil**. I work with platform engineering and software development at **Voicecorp** and study **Information Security at CESAR School**.
 
-### Contact me! ⤵
+### What I work with
 
-<a href="mailto:ivolopesneto@gmail.com" target="_blank" rel="noopener noreferrer" alt="Gmail">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+- **Backend & scripting:** Python · FastAPI · SQL · PostgreSQL · Bash
+- **Infrastructure:** Linux · Proxmox VE · Docker · Nginx
+- **Delivery & quality:** Jenkins · Ansible · SonarQube · Trivy
+- **Currently exploring:** Go · Kubernetes · Terraform
 
-<a href="https://www.linkedin.com/in/ivo-lopes-sn/" alt="LinkedIn">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+### Selected projects
 
-<a href="https://wa.me/5581997620123" alt="WhatsApp">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+- **[IVOAI](https://github.com/ivo-lopes/ivoai)** — A Go-based runtime for AI coding assistants, with orchestration, persistent memory, and private RAG/MCP integrations.
+- **[Simple AI Usage Indicator](https://github.com/ivo-lopes/simple-ai-usage-indicator)** — A GNOME Shell extension that displays usage and quotas for AI coding assistants directly in the top bar.
+
+### Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/ivo-lopes-sn/) · [Email](mailto:ivolopesneto@gmail.com) · [WhatsApp](https://wa.me/5581997620123)
+
+<sub>Interested in backend engineering, platform tooling, DevSecOps, and open-source software.</sub>
